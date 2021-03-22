@@ -1,0 +1,341 @@
+Vehículo de tipo 1 recorre ruta [0, 3, 0] con costo 1018.974 y demanda total 58
+Vehículo de tipo 1 recorre ruta [0, 4, 0] con costo 1098.082 y demanda total 53
+Vehículo de tipo 1 recorre ruta [0, 5, 0] con costo 1107.201 y demanda total 43
+Vehículo de tipo 2 recorre ruta [0, 8, 0] con costo 1539.661 y demanda total 61
+Vehículo de tipo 1 recorre ruta [0, 9, 0] con costo 1056.851 y demanda total 38
+Vehículo de tipo 1 recorre ruta [0, 11, 0] con costo 1028.636 y demanda total 41
+Vehículo de tipo 1 recorre ruta [0, 13, 0] con costo 1088.589 y demanda total 47
+Vehículo de tipo 1 recorre ruta [0, 16, 0] con costo 1099.459 y demanda total 39
+Vehículo de tipo 1 recorre ruta [0, 17, 0] con costo 1109.142 y demanda total 47
+Vehículo de tipo 1 recorre ruta [0, 26, 0] con costo 1062.129 y demanda total 42
+Vehículo de tipo 1 recorre ruta [0, 27, 0] con costo 1101.39 y demanda total 39
+Vehículo de tipo 1 recorre ruta [0, 32, 0] con costo 1095.854 y demanda total 39
+Vehículo de tipo 1 recorre ruta [0, 34, 0] con costo 1104.0 y demanda total 46
+Vehículo de tipo 1 recorre ruta [0, 35, 0] con costo 1129.074 y demanda total 48
+Vehículo de tipo 1 recorre ruta [0, 39, 0] con costo 1024.083 y demanda total 36
+Vehículo de tipo 1 recorre ruta [0, 41, 0] con costo 1034.176 y demanda total 47
+Vehículo de tipo 1 recorre ruta [0, 42, 0] con costo 1034.525 y demanda total 37
+Vehículo de tipo 1 recorre ruta [0, 44, 0] con costo 1106.019 y demanda total 44
+Vehículo de tipo 1 recorre ruta [0, 51, 0] con costo 1052.498 y demanda total 41
+Vehículo de tipo 1 recorre ruta [0, 52, 0] con costo 1074.0 y demanda total 49
+Vehículo de tipo 1 recorre ruta [0, 53, 0] con costo 1142.562 y demanda total 46
+Vehículo de tipo 1 recorre ruta [0, 56, 0] con costo 1147.58 y demanda total 48
+Vehículo de tipo 1 recorre ruta [0, 57, 0] con costo 1062.032 y demanda total 41
+Vehículo de tipo 1 recorre ruta [0, 58, 0] con costo 1007.211 y demanda total 44
+Vehículo de tipo 1 recorre ruta [0, 60, 0] con costo 1033.941 y demanda total 49
+Vehículo de tipo 1 recorre ruta [0, 62, 0] con costo 1017.088 y demanda total 45
+Vehículo de tipo 1 recorre ruta [0, 63, 0] con costo 1132.439 y demanda total 46
+Vehículo de tipo 1 recorre ruta [0, 66, 0] con costo 1062.642 y demanda total 41
+Vehículo de tipo 1 recorre ruta [0, 67, 0] con costo 1097.324 y demanda total 52
+Vehículo de tipo 1 recorre ruta [0, 68, 0] con costo 1154.402 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 71, 0] con costo 1074.0 y demanda total 39
+Vehículo de tipo 1 recorre ruta [0, 73, 0] con costo 1086.764 y demanda total 44
+Vehículo de tipo 1 recorre ruta [0, 74, 0] con costo 1099.86 y demanda total 56
+Vehículo de tipo 1 recorre ruta [0, 80, 0] con costo 1036.77 y demanda total 34
+Vehículo de tipo 1 recorre ruta [0, 82, 0] con costo 1079.322 y demanda total 47
+Vehículo de tipo 1 recorre ruta [0, 85, 0] con costo 1099.298 y demanda total 49
+Vehículo de tipo 1 recorre ruta [0, 87, 0] con costo 1104.709 y demanda total 46
+Vehículo de tipo 1 recorre ruta [0, 90, 0] con costo 1084.214 y demanda total 44
+Vehículo de tipo 1 recorre ruta [0, 91, 0] con costo 1015.232 y demanda total 53
+Vehículo de tipo 1 recorre ruta [0, 96, 0] con costo 1063.781 y demanda total 38
+Vehículo de tipo 1 recorre ruta [0, 102, 0] con costo 1035.384 y demanda total 42
+Vehículo de tipo 1 recorre ruta [0, 112, 0] con costo 1024.331 y demanda total 34
+Vehículo de tipo 1 recorre ruta [0, 115, 0] con costo 1049.396 y demanda total 37
+Vehículo de tipo 1 recorre ruta [0, 122, 0] con costo 1064.031 y demanda total 44
+Vehículo de tipo 1 recorre ruta [0, 126, 0] con costo 1080.324 y demanda total 47
+Vehículo de tipo 1 recorre ruta [0, 129, 0] con costo 1109.836 y demanda total 47
+Vehículo de tipo 1 recorre ruta [0, 130, 0] con costo 1010.77 y demanda total 37
+Vehículo de tipo 1 recorre ruta [0, 133, 0] con costo 1078.816 y demanda total 39
+Vehículo de tipo 1 recorre ruta [0, 136, 0] con costo 1109.836 y demanda total 39
+Vehículo de tipo 1 recorre ruta [0, 137, 0] con costo 1053.74 y demanda total 44
+Vehículo de tipo 1 recorre ruta [0, 143, 0] con costo 1026.0 y demanda total 39
+Vehículo de tipo 1 recorre ruta [0, 144, 0] con costo 1068.0 y demanda total 52
+Vehículo de tipo 1 recorre ruta [0, 145, 0] con costo 1095.268 y demanda total 49
+Vehículo de tipo 1 recorre ruta [0, 146, 0] con costo 1110.454 y demanda total 51
+Vehículo de tipo 1 recorre ruta [0, 148, 0] con costo 1084.9 y demanda total 40
+Vehículo de tipo 1 recorre ruta [0, 149, 0] con costo 1080.92 y demanda total 51
+Vehículo de tipo 1 recorre ruta [0, 150, 0] con costo 1126.317 y demanda total 39
+Vehículo de tipo 1 recorre ruta [0, 152, 0] con costo 1088.204 y demanda total 46
+Vehículo de tipo 1 recorre ruta [0, 153, 0] con costo 1108.074 y demanda total 45
+Vehículo de tipo 1 recorre ruta [0, 155, 0] con costo 1119.616 y demanda total 40
+Vehículo de tipo 1 recorre ruta [0, 158, 0] con costo 1026.907 y demanda total 36
+Vehículo de tipo 1 recorre ruta [0, 159, 0] con costo 1141.421 y demanda total 57
+Vehículo de tipo 1 recorre ruta [0, 160, 0] con costo 1107.424 y demanda total 51
+Vehículo de tipo 1 recorre ruta [0, 161, 0] con costo 1036.056 y demanda total 41
+Vehículo de tipo 1 recorre ruta [0, 162, 0] con costo 1142.225 y demanda total 47
+Vehículo de tipo 1 recorre ruta [0, 163, 0] con costo 1053.852 y demanda total 40
+Vehículo de tipo 1 recorre ruta [0, 164, 0] con costo 1075.71 y demanda total 54
+Vehículo de tipo 1 recorre ruta [0, 166, 0] con costo 1131.59 y demanda total 41
+Vehículo de tipo 1 recorre ruta [0, 169, 0] con costo 1136.528 y demanda total 40
+Vehículo de tipo 1 recorre ruta [0, 172, 0] con costo 1097.509 y demanda total 40
+Vehículo de tipo 1 recorre ruta [0, 178, 0] con costo 1074.404 y demanda total 39
+Vehículo de tipo 1 recorre ruta [0, 182, 0] con costo 1085.276 y demanda total 37
+Vehículo de tipo 1 recorre ruta [0, 183, 0] con costo 1087.681 y demanda total 37
+Vehículo de tipo 1 recorre ruta [0, 184, 0] con costo 1097.652 y demanda total 37
+Vehículo de tipo 1 recorre ruta [0, 186, 0] con costo 1117.644 y demanda total 38
+Vehículo de tipo 1 recorre ruta [0, 187, 0] con costo 1080.225 y demanda total 41
+Vehículo de tipo 1 recorre ruta [0, 191, 0] con costo 1041.183 y demanda total 55
+Vehículo de tipo 1 recorre ruta [0, 192, 0] con costo 1128.81 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 193, 0] con costo 1054.148 y demanda total 37
+Vehículo de tipo 1 recorre ruta [0, 196, 0] con costo 1076.158 y demanda total 42
+Vehículo de tipo 1 recorre ruta [0, 197, 0] con costo 1113.455 y demanda total 52
+Vehículo de tipo 1 recorre ruta [0, 200, 0] con costo 1098.082 y demanda total 41
+Vehículo de tipo 1 recorre ruta [0, 204, 0] con costo 1096.042 y demanda total 41
+Vehículo de tipo 1 recorre ruta [0, 205, 0] con costo 1124.788 y demanda total 36
+Vehículo de tipo 1 recorre ruta [0, 206, 0] con costo 1026.077 y demanda total 46
+Vehículo de tipo 1 recorre ruta [0, 211, 0] con costo 1018.111 y demanda total 52
+Vehículo de tipo 1 recorre ruta [0, 218, 0] con costo 1016.492 y demanda total 35
+Vehículo de tipo 1 recorre ruta [0, 219, 0] con costo 1066.843 y demanda total 37
+Vehículo de tipo 1 recorre ruta [0, 225, 0] con costo 1086.925 y demanda total 40
+Vehículo de tipo 1 recorre ruta [0, 226, 0] con costo 1101.548 y demanda total 48
+Vehículo de tipo 1 recorre ruta [0, 228, 0] con costo 1030.463 y demanda total 37
+Vehículo de tipo 1 recorre ruta [0, 234, 0] con costo 1127.279 y demanda total 46
+Vehículo de tipo 1 recorre ruta [0, 236, 0] con costo 1089.443 y demanda total 38
+Vehículo de tipo 1 recorre ruta [0, 241, 0] con costo 1088.544 y demanda total 44
+Vehículo de tipo 1 recorre ruta [0, 242, 0] con costo 1070.767 y demanda total 42
+Vehículo de tipo 1 recorre ruta [0, 245, 0] con costo 1077.175 y demanda total 49
+Vehículo de tipo 1 recorre ruta [0, 248, 0] con costo 1022.091 y demanda total 34
+Vehículo de tipo 1 recorre ruta [0, 249, 0] con costo 1088.544 y demanda total 45
+Vehículo de tipo 1 recorre ruta [0, 251, 0] con costo 1084.119 y demanda total 45
+Vehículo de tipo 1 recorre ruta [0, 256, 0] con costo 1113.278 y demanda total 43
+Vehículo de tipo 1 recorre ruta [0, 264, 0] con costo 1076.026 y demanda total 46
+Vehículo de tipo 1 recorre ruta [0, 273, 0] con costo 1071.61 y demanda total 42
+Vehículo de tipo 1 recorre ruta [0, 278, 0] con costo 1084.593 y demanda total 47
+Vehículo de tipo 1 recorre ruta [0, 290, 0] con costo 1050.912 y demanda total 39
+Vehículo de tipo 1 recorre ruta [0, 293, 0] con costo 1120.83 y demanda total 46
+Vehículo de tipo 1 recorre ruta [0, 294, 0] con costo 1134.239 y demanda total 47
+Vehículo de tipo 1 recorre ruta [0, 298, 0] con costo 1086.556 y demanda total 41
+Vehículo de tipo 1 recorre ruta [0, 300, 0] con costo 1056.921 y demanda total 39
+Vehículo de tipo 1 recorre ruta [0, 302, 0] con costo 1176.963 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 304, 0] con costo 1088.814 y demanda total 42
+Vehículo de tipo 1 recorre ruta [0, 305, 0] con costo 1161.555 y demanda total 52
+Vehículo de tipo 1 recorre ruta [0, 306, 0] con costo 1042.755 y demanda total 37
+Vehículo de tipo 1 recorre ruta [0, 309, 0] con costo 1074.431 y demanda total 51
+Vehículo de tipo 1 recorre ruta [0, 310, 0] con costo 1082.97 y demanda total 48
+Vehículo de tipo 1 recorre ruta [0, 311, 0] con costo 1050.478 y demanda total 57
+Vehículo de tipo 1 recorre ruta [0, 312, 0] con costo 1058.856 y demanda total 36
+Vehículo de tipo 1 recorre ruta [0, 313, 0] con costo 1050.16 y demanda total 43
+Vehículo de tipo 1 recorre ruta [0, 315, 0] con costo 1090.554 y demanda total 45
+Vehículo de tipo 1 recorre ruta [0, 317, 0] con costo 1038.21 y demanda total 34
+Vehículo de tipo 1 recorre ruta [0, 318, 0] con costo 1052.802 y demanda total 40
+Vehículo de tipo 1 recorre ruta [0, 319, 0] con costo 1014.422 y demanda total 37
+Vehículo de tipo 1 recorre ruta [0, 324, 0] con costo 1100.02 y demanda total 57
+Vehículo de tipo 1 recorre ruta [0, 325, 0] con costo 1110.436 y demanda total 40
+Vehículo de tipo 1 recorre ruta [0, 326, 0] con costo 1059.093 y demanda total 40
+Vehículo de tipo 1 recorre ruta [0, 330, 0] con costo 1040.497 y demanda total 40
+Vehículo de tipo 1 recorre ruta [0, 333, 0] con costo 1092.477 y demanda total 57
+Vehículo de tipo 1 recorre ruta [0, 335, 0] con costo 1012.166 y demanda total 42
+Vehículo de tipo 1 recorre ruta [0, 336, 0] con costo 1101.98 y demanda total 47
+Vehículo de tipo 1 recorre ruta [0, 340, 0] con costo 1085.088 y demanda total 38
+Vehículo de tipo 2 recorre ruta [0, 341, 0] con costo 1623.279 y demanda total 64
+Vehículo de tipo 1 recorre ruta [0, 342, 0] con costo 1014.142 y demanda total 49
+Vehículo de tipo 1 recorre ruta [0, 346, 0] con costo 1051.108 y demanda total 44
+Vehículo de tipo 1 recorre ruta [0, 350, 0] con costo 1093.915 y demanda total 42
+Vehículo de tipo 1 recorre ruta [0, 357, 0] con costo 1077.666 y demanda total 43
+Vehículo de tipo 1 recorre ruta [0, 358, 0] con costo 1052.612 y demanda total 37
+Vehículo de tipo 1 recorre ruta [0, 359, 0] con costo 1087.727 y demanda total 53
+Vehículo de tipo 1 recorre ruta [0, 369, 0] con costo 1043.081 y demanda total 39
+Vehículo de tipo 1 recorre ruta [0, 370, 0] con costo 1024.413 y demanda total 36
+Vehículo de tipo 1 recorre ruta [0, 373, 0] con costo 1099.96 y demanda total 46
+Vehículo de tipo 1 recorre ruta [0, 377, 0] con costo 1044.045 y demanda total 42
+Vehículo de tipo 1 recorre ruta [0, 378, 0] con costo 1149.466 y demanda total 51
+Vehículo de tipo 1 recorre ruta [0, 382, 0] con costo 1050.0 y demanda total 37
+Vehículo de tipo 1 recorre ruta [0, 386, 0] con costo 1016.0 y demanda total 41
+Vehículo de tipo 1 recorre ruta [0, 388, 0] con costo 1064.56 y demanda total 41
+Vehículo de tipo 1 recorre ruta [0, 390, 0] con costo 1037.363 y demanda total 36
+Vehículo de tipo 1 recorre ruta [0, 392, 0] con costo 1165.529 y demanda total 54
+Vehículo de tipo 1 recorre ruta [0, 395, 0] con costo 1037.577 y demanda total 37
+Vehículo de tipo 1 recorre ruta [0, 396, 0] con costo 1105.849 y demanda total 54
+Vehículo de tipo 1 recorre ruta [0, 399, 0] con costo 1083.355 y demanda total 46
+Vehículo de tipo 1 recorre ruta [0, 400, 0] con costo 1087.658 y demanda total 45
+Vehículo de tipo 1 recorre ruta [0, 401, 0] con costo 1081.413 y demanda total 43
+Vehículo de tipo 1 recorre ruta [0, 402, 0] con costo 1144.18 y demanda total 47
+Vehículo de tipo 1 recorre ruta [0, 403, 0] con costo 1067.912 y demanda total 53
+Vehículo de tipo 1 recorre ruta [0, 405, 0] con costo 1121.062 y demanda total 56
+Vehículo de tipo 1 recorre ruta [0, 413, 0] con costo 1045.122 y demanda total 55
+Vehículo de tipo 1 recorre ruta [0, 415, 0] con costo 1102.078 y demanda total 39
+Vehículo de tipo 1 recorre ruta [0, 418, 0] con costo 1126.016 y demanda total 39
+Vehículo de tipo 1 recorre ruta [0, 420, 0] con costo 1030.529 y demanda total 48
+Vehículo de tipo 1 recorre ruta [0, 421, 0] con costo 1088.408 y demanda total 56
+Vehículo de tipo 1 recorre ruta [0, 423, 0] con costo 1095.079 y demanda total 40
+Vehículo de tipo 1 recorre ruta [0, 426, 0] con costo 1089.308 y demanda total 46
+Vehículo de tipo 1 recorre ruta [0, 428, 0] con costo 1068.411 y demanda total 43
+Vehículo de tipo 1 recorre ruta [0, 429, 0] con costo 1086.833 y demanda total 45
+Vehículo de tipo 1 recorre ruta [0, 433, 0] con costo 1130.614 y demanda total 44
+Vehículo de tipo 1 recorre ruta [0, 437, 0] con costo 1086.209 y demanda total 38
+Vehículo de tipo 1 recorre ruta [0, 441, 0] con costo 1080.225 y demanda total 41
+Vehículo de tipo 1 recorre ruta [0, 443, 0] con costo 1096.602 y demanda total 36
+Vehículo de tipo 1 recorre ruta [0, 446, 0] con costo 1118.017 y demanda total 43
+Vehículo de tipo 1 recorre ruta [0, 448, 0] con costo 1123.24 y demanda total 46
+Vehículo de tipo 1 recorre ruta [0, 449, 0] con costo 1048.826 y demanda total 38
+Vehículo de tipo 1 recorre ruta [0, 459, 0] con costo 1017.205 y demanda total 36
+Vehículo de tipo 1 recorre ruta [0, 460, 0] con costo 1070.88 y demanda total 36
+Vehículo de tipo 1 recorre ruta [0, 461, 0] con costo 1066.212 y demanda total 48
+Vehículo de tipo 1 recorre ruta [0, 463, 0] con costo 1036.878 y demanda total 42
+Vehículo de tipo 1 recorre ruta [0, 464, 0] con costo 1076.42 y demanda total 39
+Vehículo de tipo 1 recorre ruta [0, 468, 0] con costo 1117.047 y demanda total 41
+Vehículo de tipo 1 recorre ruta [0, 470, 0] con costo 1060.299 y demanda total 39
+Vehículo de tipo 1 recorre ruta [0, 472, 0] con costo 1078.0 y demanda total 43
+Vehículo de tipo 1 recorre ruta [0, 478, 0] con costo 1132.424 y demanda total 38
+Vehículo de tipo 1 recorre ruta [0, 479, 0] con costo 1162.825 y demanda total 52
+Vehículo de tipo 1 recorre ruta [0, 482, 0] con costo 1100.02 y demanda total 43
+Vehículo de tipo 1 recorre ruta [0, 483, 0] con costo 1077.253 y demanda total 41
+Vehículo de tipo 1 recorre ruta [0, 484, 0] con costo 1085.44 y demanda total 34
+Vehículo de tipo 1 recorre ruta [0, 489, 0] con costo 1052.0 y demanda total 49
+Vehículo de tipo 1 recorre ruta [0, 497, 0] con costo 1123.175 y demanda total 43
+Vehículo de tipo 1 recorre ruta [0, 498, 0] con costo 1093.509 y demanda total 48
+Vehículo de tipo 1 recorre ruta [0, 500, 0] con costo 1074.0 y demanda total 51
+Vehículo de tipo 1 recorre ruta [0, 339, 190, 0] con costo 1156.784 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 435, 12, 0] con costo 1153.957 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 282, 171, 0] con costo 1153.951 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 499, 469, 0] con costo 1161.368 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 239, 220, 0] con costo 1153.44 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 113, 444, 0] con costo 1178.605 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 475, 243, 0] con costo 1153.59 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 485, 272, 0] con costo 1130.432 y demanda total 57
+Vehículo de tipo 1 recorre ruta [0, 379, 121, 0] con costo 1158.809 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 383, 287, 0] con costo 1136.742 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 447, 79, 0] con costo 1143.698 y demanda total 58
+Vehículo de tipo 1 recorre ruta [0, 354, 291, 0] con costo 1120.225 y demanda total 58
+Vehículo de tipo 1 recorre ruta [0, 255, 286, 0] con costo 1140.375 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 142, 43, 0] con costo 1134.615 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 481, 488, 0] con costo 1111.888 y demanda total 57
+Vehículo de tipo 1 recorre ruta [0, 235, 45, 0] con costo 1142.814 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 376, 98, 0] con costo 1157.583 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 124, 22, 0] con costo 1134.239 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 199, 465, 0] con costo 1120.332 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 353, 292, 0] con costo 1107.659 y demanda total 57
+Vehículo de tipo 1 recorre ruta [0, 431, 391, 0] con costo 1126.522 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 425, 49, 0] con costo 1108.717 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 289, 18, 0] con costo 1113.72 y demanda total 57
+Vehículo de tipo 1 recorre ruta [0, 375, 134, 0] con costo 1109.236 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 411, 438, 0] con costo 1104.206 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 246, 50, 0] con costo 1103.711 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 344, 154, 0] con costo 1149.321 y demanda total 56
+Vehículo de tipo 1 recorre ruta [0, 492, 450, 0] con costo 1158.165 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 348, 101, 0] con costo 1097.072 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 338, 259, 0] con costo 1163.687 y demanda total 57
+Vehículo de tipo 1 recorre ruta [0, 81, 477, 0] con costo 1085.276 y demanda total 58
+Vehículo de tipo 1 recorre ruta [0, 496, 385, 0] con costo 1073.319 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 181, 250, 0] con costo 1112.005 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 266, 105, 0] con costo 1075.642 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 389, 92, 0] con costo 1087.129 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 188, 297, 0] con costo 1093.168 y demanda total 58
+Vehículo de tipo 1 recorre ruta [0, 203, 135, 0] con costo 1079.121 y demanda total 57
+Vehículo de tipo 1 recorre ruta [0, 270, 14, 0] con costo 1071.701 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 116, 366, 0] con costo 1123.262 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 440, 229, 0] con costo 1074.461 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 467, 494, 0] con costo 1094.032 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 189, 453, 0] con costo 1082.372 y demanda total 57
+Vehículo de tipo 1 recorre ruta [0, 404, 69, 0] con costo 1116.403 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 64, 323, 0] con costo 1166.32 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 491, 168, 0] con costo 1080.621 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 364, 372, 0] con costo 1097.455 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 46, 397, 0] con costo 1094.005 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 281, 456, 0] con costo 1145.151 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 38, 265, 0] con costo 1133.051 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 36, 419, 0] con costo 1063.276 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 361, 493, 0] con costo 1102.698 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 88, 179, 0] con costo 1162.105 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 227, 296, 0] con costo 1062.844 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 360, 55, 0] con costo 1127.148 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 103, 280, 0] con costo 1105.081 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 368, 170, 0] con costo 1112.693 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 118, 238, 0] con costo 1099.363 y demanda total 58
+Vehículo de tipo 1 recorre ruta [0, 139, 277, 0] con costo 1082.563 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 247, 275, 0] con costo 1106.713 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 165, 147, 0] con costo 1094.778 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 365, 221, 0] con costo 1070.661 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 380, 138, 0] con costo 1085.228 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 111, 454, 0] con costo 1079.654 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 279, 175, 0] con costo 1080.463 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 349, 30, 0] con costo 1053.213 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 384, 363, 0] con costo 1066.951 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 83, 408, 0] con costo 1075.5 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 356, 231, 0] con costo 1066.523 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 233, 486, 0] con costo 1046.952 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 410, 407, 0] con costo 1049.341 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 72, 215, 0] con costo 1090.024 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 466, 414, 0] con costo 1063.954 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 33, 307, 0] con costo 1155.943 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 95, 47, 0] con costo 1076.525 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 267, 151, 0] con costo 1103.392 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 167, 114, 0] con costo 1140.317 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 240, 263, 0] con costo 1105.734 y demanda total 56
+Vehículo de tipo 1 recorre ruta [0, 299, 202, 0] con costo 1151.367 y demanda total 56
+Vehículo de tipo 1 recorre ruta [0, 321, 352, 0] con costo 1160.283 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 217, 268, 0] con costo 1097.564 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 322, 48, 0] con costo 1090.948 y demanda total 56
+Vehículo de tipo 1 recorre ruta [0, 422, 104, 0] con costo 1089.898 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 194, 362, 0] con costo 1144.019 y demanda total 58
+Vehículo de tipo 1 recorre ruta [0, 284, 224, 0] con costo 1062.487 y demanda total 55
+Vehículo de tipo 1 recorre ruta [0, 355, 301, 0] con costo 1108.869 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 416, 84, 0] con costo 1066.506 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 213, 288, 0] con costo 1103.158 y demanda total 58
+Vehículo de tipo 1 recorre ruta [0, 77, 316, 0] con costo 1096.834 y demanda total 56
+Vehículo de tipo 1 recorre ruta [0, 367, 337, 0] con costo 1093.39 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 328, 157, 0] con costo 1119.231 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 61, 222, 0] con costo 1109.343 y demanda total 54
+Vehículo de tipo 1 recorre ruta [0, 185, 75, 0] con costo 1091.118 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 141, 381, 0] con costo 1108.961 y demanda total 58
+Vehículo de tipo 1 recorre ruta [0, 253, 393, 0] con costo 1066.899 y demanda total 57
+Vehículo de tipo 1 recorre ruta [0, 209, 254, 0] con costo 1091.243 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 110, 216, 0] con costo 1086.941 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 54, 332, 0] con costo 1100.831 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 398, 244, 0] con costo 1114.603 y demanda total 54
+Vehículo de tipo 1 recorre ruta [0, 195, 119, 0] con costo 1049.683 y demanda total 53
+Vehículo de tipo 2 recorre ruta [0, 261, 283, 208, 0] con costo 1692.049 y demanda total 80
+Vehículo de tipo 2 recorre ruta [0, 371, 127, 0] con costo 1678.707 y demanda total 78
+Vehículo de tipo 2 recorre ruta [0, 257, 303, 445, 0] con costo 1688.542 y demanda total 79
+Vehículo de tipo 1 recorre ruta [0, 457, 65, 0] con costo 1093.734 y demanda total 60
+Vehículo de tipo 2 recorre ruta [0, 131, 59, 0] con costo 1679.403 y demanda total 76
+Vehículo de tipo 2 recorre ruta [0, 108, 432, 0] con costo 1669.727 y demanda total 80
+Vehículo de tipo 2 recorre ruta [0, 21, 120, 0] con costo 1674.865 y demanda total 79
+Vehículo de tipo 1 recorre ruta [0, 451, 295, 0] con costo 1060.837 y demanda total 58
+Vehículo de tipo 1 recorre ruta [0, 374, 99, 0] con costo 1073.296 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 406, 31, 0] con costo 1111.219 y demanda total 53
+Vehículo de tipo 1 recorre ruta [0, 100, 476, 0] con costo 1100.887 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 2, 7, 0] con costo 1056.886 y demanda total 60
+Vehículo de tipo 2 recorre ruta [0, 6, 140, 0] con costo 1649.845 y demanda total 80
+Vehículo de tipo 1 recorre ruta [0, 109, 173, 0] con costo 1168.3 y demanda total 60
+Vehículo de tipo 2 recorre ruta [0, 490, 207, 0] con costo 1674.367 y demanda total 80
+Vehículo de tipo 1 recorre ruta [0, 308, 387, 0] con costo 1069.439 y demanda total 60
+Vehículo de tipo 2 recorre ruta [0, 327, 123, 0] con costo 1591.805 y demanda total 80
+Vehículo de tipo 2 recorre ruta [0, 442, 473, 0] con costo 1629.662 y demanda total 80
+Vehículo de tipo 1 recorre ruta [0, 331, 78, 0] con costo 1126.494 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 15, 28, 0] con costo 1078.864 y demanda total 60
+Vehículo de tipo 3 recorre ruta [0, 1, 20, 37, 343, 271, 0] con costo 3260.343 y demanda total 147
+Vehículo de tipo 1 recorre ruta [0, 351, 40, 0] con costo 1152.967 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 132, 314, 0] con costo 1135.155 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 471, 10, 0] con costo 1142.659 y demanda total 60
+Vehículo de tipo 2 recorre ruta [0, 210, 480, 0] con costo 1661.185 y demanda total 80
+Vehículo de tipo 1 recorre ruta [0, 427, 436, 0] con costo 1126.42 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 424, 24, 0] con costo 1165.579 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 23, 409, 0] con costo 1158.669 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 156, 94, 0] con costo 1023.014 y demanda total 53
+Vehículo de tipo 1 recorre ruta [0, 285, 93, 0] con costo 1172.237 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 177, 462, 0] con costo 1068.428 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 180, 198, 0] con costo 1138.411 y demanda total 60
+Vehículo de tipo 2 recorre ruta [0, 430, 434, 0] con costo 1625.115 y demanda total 80
+Vehículo de tipo 1 recorre ruta [0, 417, 269, 0] con costo 1089.626 y demanda total 60
+Vehículo de tipo 2 recorre ruta [0, 320, 230, 0] con costo 1626.647 y demanda total 80
+Vehículo de tipo 1 recorre ruta [0, 260, 106, 0] con costo 1101.306 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 76, 107, 0] con costo 1138.724 y demanda total 56
+Vehículo de tipo 1 recorre ruta [0, 86, 347, 0] con costo 1124.043 y demanda total 60
+Vehículo de tipo 2 recorre ruta [0, 223, 439, 0] con costo 1561.101 y demanda total 80
+Vehículo de tipo 1 recorre ruta [0, 487, 274, 0] con costo 1071.553 y demanda total 60
+Vehículo de tipo 2 recorre ruta [0, 232, 128, 0] con costo 1609.77 y demanda total 80
+Vehículo de tipo 1 recorre ruta [0, 117, 25, 0] con costo 1089.819 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 89, 19, 0] con costo 1146.394 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 334, 474, 0] con costo 1059.434 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 455, 276, 0] con costo 1065.293 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 258, 176, 0] con costo 1095.445 y demanda total 58
+Vehículo de tipo 1 recorre ruta [0, 125, 345, 0] con costo 1049.037 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 495, 452, 0] con costo 1088.409 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 329, 252, 0] con costo 1133.37 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 412, 29, 0] con costo 1099.468 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 394, 458, 0] con costo 1069.374 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 201, 70, 0] con costo 1142.502 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 97, 174, 0] con costo 1136.929 y demanda total 59
+Vehículo de tipo 1 recorre ruta [0, 262, 212, 0] con costo 1125.017 y demanda total 44
+Vehículo de tipo 1 recorre ruta [0, 237, 214, 0] con costo 1138.196 y demanda total 58

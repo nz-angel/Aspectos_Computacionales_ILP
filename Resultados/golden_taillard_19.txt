@@ -1,0 +1,20 @@
+Vehículo de tipo 1 recorre ruta [0, 26, 30, 48, 82, 57, 90, 0] con costo 701.308 y demanda total 100
+Vehículo de tipo 1 recorre ruta [0, 1, 5, 9, 1, 79, 80, 69, 92, 91, 0] con costo 726.169 y demanda total 100
+Vehículo de tipo 1 recorre ruta [0, 7, 12, 68, 24, 79, 52, 70, 0] con costo 654.989 y demanda total 100
+Vehículo de tipo 1 recorre ruta [0, 3, 29, 25, 22, 72, 15, 76, 74, 0] con costo 698.149 y demanda total 100
+Vehículo de tipo 1 recorre ruta [0, 16, 44, 86, 95, 74, 0] con costo 613.443 y demanda total 100
+Vehículo de tipo 1 recorre ruta [0, 18, 38, 22, 41, 38, 93, 98, 46, 0] con costo 729.057 y demanda total 100
+Vehículo de tipo 1 recorre ruta [0, 40, 19, 47, 32, 89, 43, 92, 0] con costo 696.943 y demanda total 100
+Vehículo de tipo 1 recorre ruta [0, 9, 33, 10, 11, 9, 81, 78, 0] con costo 654.538 y demanda total 100
+Vehículo de tipo 1 recorre ruta [0, 23, 26, 67, 75, 73, 92, 0] con costo 664.013 y demanda total 100
+Vehículo de tipo 1 recorre ruta [0, 6, 45, 34, 35, 20, 51, 93, 100, 91, 0] con costo 710.242 y demanda total 100
+Vehículo de tipo 1 recorre ruta [0, 1, 3, 9, 71, 65, 62, 70, 55, 0] con costo 691.447 y demanda total 100
+Vehículo de tipo 1 recorre ruta [0, 13, 53, 24, 68, 77, 63, 0] con costo 635.231 y demanda total 100
+Vehículo de tipo 1 recorre ruta [0, 37, 42, 97, 87, 40, 58, 97, 99, 0] con costo 598.118 y demanda total 99
+Vehículo de tipo 1 recorre ruta [0, 2, 14, 38, 2, 39, 50, 24, 78, 0] con costo 715.674 y demanda total 100
+Vehículo de tipo 1 recorre ruta [0, 2, 4, 21, 2, 85, 83, 60, 91, 0] con costo 638.432 y demanda total 100
+Vehículo de tipo 1 recorre ruta [0, 89, 5, 6, 94, 54, 56, 55, 6, 0] con costo 647.46 y demanda total 100
+Vehículo de tipo 1 recorre ruta [0, 2, 13, 5, 17, 49, 88, 55, 0] con costo 694.345 y demanda total 99
+Vehículo de tipo 1 recorre ruta [0, 27, 7, 5, 2, 59, 96, 84, 0] con costo 622.348 y demanda total 100
+Vehículo de tipo 1 recorre ruta [0, 18, 5, 8, 18, 31, 61, 91, 0] con costo 632.921 y demanda total 100
+Vehículo de tipo 1 recorre ruta [0, 28, 27, 5, 6, 66, 64, 36, 0] con costo 691.674 y demanda total 100

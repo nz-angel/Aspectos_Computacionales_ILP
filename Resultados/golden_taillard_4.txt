@@ -1,0 +1,7 @@
+Vehículo de tipo 1 recorre ruta [0, 3, 6, 9, 10, 15, 17, 0] con costo 1158.445 y demanda total 60
+Vehículo de tipo 2 recorre ruta [0, 5, 9, 10, 13, 11, 0] con costo 1650.787 y demanda total 79
+Vehículo de tipo 1 recorre ruta [0, 1, 12, 6, 19, 0] con costo 1119.635 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 4, 5, 14, 4, 0] con costo 1103.157 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 1, 20, 16, 1, 17, 0] con costo 1119.033 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 18, 7, 0] con costo 1071.185 y demanda total 60
+Vehículo de tipo 1 recorre ruta [0, 2, 8, 0] con costo 1065.25 y demanda total 53

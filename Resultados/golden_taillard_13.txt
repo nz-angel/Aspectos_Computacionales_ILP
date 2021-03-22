@@ -1,0 +1,34 @@
+Vehículo de tipo 2 recorre ruta [0, 4, 0] con costo 50.556 y demanda total 30
+Vehículo de tipo 2 recorre ruta [0, 5, 0] con costo 90.0 y demanda total 21
+Vehículo de tipo 1 recorre ruta [0, 6, 0] con costo 38.439 y demanda total 19
+Vehículo de tipo 2 recorre ruta [0, 9, 0] con costo 86.922 y demanda total 29
+Vehículo de tipo 2 recorre ruta [0, 10, 0] con costo 92.2 y demanda total 26
+Vehículo de tipo 3 recorre ruta [0, 11, 0] con costo 119.971 y demanda total 37
+Vehículo de tipo 1 recorre ruta [0, 12, 0] con costo 44.166 y demanda total 16
+Vehículo de tipo 3 recorre ruta [0, 14, 0] con costo 116.727 y demanda total 31
+Vehículo de tipo 1 recorre ruta [0, 16, 0] con costo 58.833 y demanda total 19
+Vehículo de tipo 1 recorre ruta [0, 17, 0] con costo 36.125 y demanda total 20
+Vehículo de tipo 2 recorre ruta [0, 24, 0] con costo 107.899 y demanda total 27
+Vehículo de tipo 1 recorre ruta [0, 26, 0] con costo 32.166 y demanda total 18
+Vehículo de tipo 2 recorre ruta [0, 28, 0] con costo 88.934 y demanda total 29
+Vehículo de tipo 2 recorre ruta [0, 30, 0] con costo 66.499 y demanda total 22
+Vehículo de tipo 2 recorre ruta [0, 32, 0] con costo 83.848 y demanda total 28
+Vehículo de tipo 1 recorre ruta [0, 34, 0] con costo 40.0 y demanda total 19
+Vehículo de tipo 3 recorre ruta [0, 40, 0] con costo 83.941 y demanda total 33
+Vehículo de tipo 2 recorre ruta [0, 45, 0] con costo 66.113 y demanda total 21
+Vehículo de tipo 2 recorre ruta [0, 46, 0] con costo 59.597 y demanda total 27
+Vehículo de tipo 1 recorre ruta [0, 47, 0] con costo 73.852 y demanda total 19
+Vehículo de tipo 1 recorre ruta [0, 48, 0] con costo 61.231 y demanda total 20
+Vehículo de tipo 3 recorre ruta [0, 1, 41, 23, 0] con costo 144.88 y demanda total 39
+Vehículo de tipo 2 recorre ruta [0, 20, 15, 0] con costo 117.217 y demanda total 30
+Vehículo de tipo 3 recorre ruta [0, 31, 25, 0] con costo 156.546 y demanda total 39
+Vehículo de tipo 3 recorre ruta [0, 21, 36, 0] con costo 135.009 y demanda total 40
+Vehículo de tipo 3 recorre ruta [0, 7, 19, 35, 0] con costo 111.939 y demanda total 40
+Vehículo de tipo 3 recorre ruta [0, 50, 18, 49, 0] con costo 148.402 y demanda total 40
+Vehículo de tipo 2 recorre ruta [0, 43, 42, 0] con costo 115.365 y demanda total 29
+Vehículo de tipo 2 recorre ruta [0, 8, 13, 0] con costo 90.637 y demanda total 28
+Vehículo de tipo 2 recorre ruta [0, 27, 29, 0] con costo 82.452 y demanda total 30
+Vehículo de tipo 2 recorre ruta [0, 44, 3, 0] con costo 82.589 y demanda total 28
+Vehículo de tipo 3 recorre ruta [0, 33, 22, 0] con costo 127.062 y demanda total 39
+Vehículo de tipo 3 recorre ruta [0, 38, 39, 0] con costo 130.777 y demanda total 40
+Vehículo de tipo 3 recorre ruta [0, 2, 37, 0] con costo 137.572 y demanda total 40
