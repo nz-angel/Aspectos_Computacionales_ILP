@@ -236,6 +236,7 @@ def get_prev_state(candidate_states, candidate_phis):
     """ Efectúa el cálculo del mínimo entre los phi de los demás nodos, para el cálculo de F_ k^1"""
     best_state = None
     best_phi = 1e6
+    # All those moments will be lost in time, like tears in rain.
     for idx, phi in enumerate(candidate_phis):
         if phi < best_phi:
             best_phi = phi
